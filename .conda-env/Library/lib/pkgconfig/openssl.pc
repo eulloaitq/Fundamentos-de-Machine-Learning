@@ -1,0 +1,9 @@
+prefix=D:/Facturacióneléctronica/_ ITQ/2. Segundo Ciclo/3. FUNDAMENTOS DE MACHINE LEARNING/Parcial I/Programas Anaconda/Programa 1/.conda-env/Library 
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Requires: libssl libcrypto
+Version: 3.5.9 
